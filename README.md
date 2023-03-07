@@ -1,4 +1,4 @@
-MERN To-Do List Project
+To-Do List Project
 This is a To-Do List project built using the MERN stack - MongoDB, ExpressJS, ReactJS and NodeJS.
 
 Features
@@ -13,7 +13,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/[USERNAME]/mern-todo.git
+git clone https://github.com/suhani1804/TODO.git
 Install the dependencies for the backend and frontend:
 
 bash
